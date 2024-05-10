@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/first">
+        <file alias="1">竖图/Ifikai_insanely_beautiful_Romani_green_eyed_woman_telling_you_t_89c6a723-fe2c-4360-8503-6dddd67f66ca.png</file>
+        <file alias="2">竖图/plat2812_disopia_smog_pollution_destruction_smoke_luminous_and__d1386005-e266-4b7f-b5ce-098aa63b4977.png</file>
+        <file alias="3">竖图/plat2812_utopia_nature_lush_green_forests_luminous_and_dreamlik_3b7df5ac-5821-45a1-9f54-28dd6faeee24.png</file>
+    </qresource>
+</RCC>
